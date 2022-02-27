@@ -1,0 +1,30 @@
+.points{
+  aspect-ratio: 0/0.7;
+  background-color: #dedbdb;
+  border-radius: 0.4rem;
+  margin: 0.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex: 0.8;
+  width: 5%;
+  align-items: center;
+}
+.details{
+  flex: 1;
+  margin: 0.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  font-size: 0.9rem;
+}
+.vote{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.containers{
+  margin: 0 auto;
+  width: 15rem;
+  display: flex;
+}
